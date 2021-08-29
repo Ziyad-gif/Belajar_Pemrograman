@@ -1,5 +1,6 @@
-print("ziyad")
+nama = input("ziyad  \t")
 
-nama = input("masukan nama  :")
-
-print(nama)
+if nama == "y":
+    print("diam")
+else:
+    print("iya")
